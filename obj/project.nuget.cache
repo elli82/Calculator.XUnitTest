@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64jq0nESo7RLlsBD9y3tqODrmyq0T1hFPPX9daU2UJNQ6Y8rS69Apc+koinf1gspfcvr32zxHsTG/PoWqcetpw==",
+  "dgSpecHash": "pLq1SiT3BwA1h9k1BdXpjgjgSFz7aaHEWoEYkGpu2ue+DGuf2nQorIAmqLoTtvv4tijk9fX4WyOKJ4fBg6zglA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elin\\source\\repos\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Elin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
