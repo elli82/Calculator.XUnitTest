@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elin\\source\\repos\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Elin\\Source\\Repos\\TheCalculator.XUnitTest\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Elin\\source\\repos\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Elin\\Source\\Repos\\TheCalculator.XUnitTest\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Elin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elin\\source\\repos\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Elin\\Source\\Repos\\TheCalculator.XUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elin\\AppData\\Roaming\\NuGet\\NuGet.Config",
