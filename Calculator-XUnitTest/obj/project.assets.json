@@ -7318,11 +7318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator-XUnitTest\\Calculator-XUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Elin\\Source\\Repos\\Calculator.XUnitTest\\Calculator-XUnitTest\\Calculator-XUnitTest.csproj",
       "projectName": "Calculator-XUnitTest",
-      "projectPath": "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator-XUnitTest\\Calculator-XUnitTest.csproj",
+      "projectPath": "C:\\Users\\Elin\\Source\\Repos\\Calculator.XUnitTest\\Calculator-XUnitTest\\Calculator-XUnitTest.csproj",
       "packagesPath": "C:\\Users\\Elin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator-XUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Elin\\Source\\Repos\\Calculator.XUnitTest\\Calculator-XUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7339,8 +7339,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator.csproj"
+            "C:\\Users\\Elin\\Source\\Repos\\Calculator.XUnitTest\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\Elin\\Source\\Repos\\Calculator.XUnitTest\\Calculator.csproj"
             }
           }
         }
@@ -7392,7 +7392,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
