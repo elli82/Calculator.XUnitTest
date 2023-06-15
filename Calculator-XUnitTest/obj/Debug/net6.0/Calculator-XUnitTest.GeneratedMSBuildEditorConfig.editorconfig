@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculator_XUnitTest
-build_property.ProjectDir = C:\Users\Elin\source\repos\TheCalculator.XUnitTest\Calculator-XUnitTest\
+build_property.ProjectDir = C:\Users\Elin\Source\Repos\Calculator.XUnitTest\Calculator-XUnitTest\

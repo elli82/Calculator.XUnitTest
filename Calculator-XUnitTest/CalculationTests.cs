@@ -49,8 +49,7 @@ namespace Calculator_XUnitTest
             Assert.Equal(result, actual);
         }
         [Theory]
-        [InlineData(25, 5, 5)]
-        //[InlineData(10, 0, 0)]  //fix if divided by zero
+        [InlineData(25, 5, 5)]        
         [InlineData(-5, 5, -1)]
         public void Division_Should_Return_Correct_Quotient(double nr1, double nr2, double result)
         {

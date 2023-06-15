@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QLCeXQnvPiHLe6jsBask3oYWwjXBT3DmFnmhlYZ96bj432gSRWSMSz6deQs4aGfkKw63KsEZxB6di3Ez3JS+Fg==",
+  "dgSpecHash": "fLbnloWAQxVfG+uHuKnFlTyJQ20W8qpprYf7PpI2oVRH3EhC7g7TbqYO9M4KZOyPf3BX6nvNVcwD9tiZRtN0Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elin\\source\\repos\\TheCalculator.XUnitTest\\Calculator-XUnitTest\\Calculator-XUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Elin\\Source\\Repos\\Calculator.XUnitTest\\Calculator-XUnitTest\\Calculator-XUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elin\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Elin\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
